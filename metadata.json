@@ -1,0 +1,5 @@
+{
+  "name": "Logistics Admin Dashboard",
+  "description": "A professional, data-dense admin dashboard for managing logistics, drivers, trips, and financials.",
+  "requestFramePermissions": ["geolocation"]
+}
